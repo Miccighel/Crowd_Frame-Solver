@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+.idea/modules.xml
+.idea/Solver.iml
+.idea/vcs.xml
+.idea/workspace.xml
